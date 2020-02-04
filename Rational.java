@@ -4,6 +4,7 @@
     @author P. Conrad for CS56 F16
 
     */
+package edu.ucsb.cs56.ratcalc.model;
 
 public class Rational {
 
